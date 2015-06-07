@@ -7,4 +7,6 @@ Author: Md.Shahjaman<shahjaman_brur@yahoo.com>
 Maintainer: Md.Shahjaman<shahjaman_brur@yahoo.com>
 Description: Calculate Variance of an integer
 Depends: Rcpp
+LinkingTo: Rcpp
+Imports: Rcpp
 License: GP2/MIT
